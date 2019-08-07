@@ -1,0 +1,18 @@
+{
+    "breakfast": [{
+            "name": "Waffles",
+            "price": 5.75,
+            "calories": 320
+        },
+        {
+            "name": "Pancakes",
+            "price": 4.75,
+            "calories": 300
+        },
+        {
+            "name": "Cereal",
+            "price": 10,
+            "calories": 210
+        }
+    ]
+}

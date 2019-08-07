@@ -1,0 +1,18 @@
+{
+    "dinner": [{
+            "name": "Pasta",
+            "price": 8.75,
+            "calories": 500
+        },
+        {
+            "name": "Pizza",
+            "price": 12.25,
+            "calories": 420
+        },
+        {
+            "name": "Taco",
+            "price": 10,
+            "calories": 225
+        }
+    ]
+}

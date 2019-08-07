@@ -1,0 +1,18 @@
+{
+    "lunch": [{
+            "name": "Cheeseburger",
+            "price": 7.75,
+            "calories": 720
+        },
+        {
+            "name": "Hamburger",
+            "price": 6.50,
+            "calories": 670
+        },
+        {
+            "name": "Poutine",
+            "price": 10,
+            "calories": 1200
+        }
+    ]
+}
